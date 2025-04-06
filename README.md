@@ -1,4 +1,4 @@
-## Hi i am wifi[ro
+## Hi i am wifipro
 
 <!--
 **wifipro0081/wifipro0081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
